@@ -55,3 +55,8 @@ Our project's purpose is to use two ways to recognise and classify traffic items
 ### Demo
 
 https://user-images.githubusercontent.com/33262315/155308171-7cc622a9-2654-402e-b675-f0d3e7e4ff2f.mp4
+
+## Authors
+
+- [Meghana Yerramsetti](https://github.com/YMeghana14)
+- [Anjana Yerramsetti](https://github.com/ayerramsetti)
