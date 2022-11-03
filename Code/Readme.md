@@ -2,7 +2,7 @@
 ## How to use? 
 <ol>
   <li>Clone the repository after preproeccsing to run and validate the model</li>
-  <p><code>git clone https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3.git</code></p>
+  <p><code>git clone https://github.com/ayerramsettiYMeghana14/Real-Time-Object-Detection-using-Yolov3.git</code></p>
 </ol>
 <ol start="2">
   <li>To install and Setup darknet</li>
